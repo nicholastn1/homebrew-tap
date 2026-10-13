@@ -1,7 +1,7 @@
-# Template for nicholastn1/homebrew-tap. release.sh fills in 0.5.2 and 1335f76fb6986402f55b98f3107d35c8276f5326e09678352773e0b55e15b178.
+# Template for nicholastn1/homebrew-tap. release.sh fills in 0.5.3 and adc151ae9a948b051558a7372bab5c05df6227cbd3bcb78e038836e4c7b0631b.
 cask "cadence" do
-  version "0.5.2"
-  sha256 "1335f76fb6986402f55b98f3107d35c8276f5326e09678352773e0b55e15b178"
+  version "0.5.3"
+  sha256 "adc151ae9a948b051558a7372bab5c05df6227cbd3bcb78e038836e4c7b0631b"
 
   url "https://github.com/nicholastn1/cadence/releases/download/v#{version}/Cadence-#{version}.zip"
   name "Cadence"
